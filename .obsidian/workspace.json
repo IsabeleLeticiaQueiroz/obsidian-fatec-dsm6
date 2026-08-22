@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "07b7f2b6ce9a1da1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1eca91c03b06182",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b60b0d3e9f8921ee",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "d3752c2f955f3906",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mdd/mdd aula 3 - 2108.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mdd aula 3 - 2108"
+            }
+          },
+          {
+            "id": "9f65c09f1e6fc426",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c9275cc2e7248a43",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dccb7f65053d614",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d33389ed77ecc22",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "ef1a6ea5726f3954",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "2289f39526ab20dd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ca2232faa47235b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1964290b9dcca20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5325f46d2074b703",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cn2/cn2 aula 2 - servidor 1108.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "cc7fb2a159057151",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "8c7abaf277020416",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "31c2f95d98fb27a3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "b8ddac97f05289b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "d3752c2f955f3906",
+  "lastOpenFiles": [
+    "mdd/mdd aula 2 - 2008.md",
+    "mdd/mdd aula 3 - 2108.md",
+    "pln/pln aula 0 - 0508.md",
+    "qts/qts aula 3 - 2008.md",
+    "qts/qts aula 4 - 2108.md",
+    "mdd/mdd aula 0 - 0608.md",
+    "qts/qts aula 0 0608.md",
+    "qts/qts aula 1 - 0708.md",
+    "qts aula 3 - 2008(continuacao).md",
+    "mdd/mdd aula 1 - 0708(PROCESSO KDD INTRODUÇÃO).md",
+    "imgs/Pasted image 20260820204137.png",
+    "Pasted image 20260820201253.png",
+    "imgs",
+    "imgs/WhatsApp Image 2026-08-20 at 20.10.09.jpeg",
+    "pln/ABORDAGENS DO PLN 0508.md",
+    "pln/pln aula 3 - 2008.md",
+    "cn2/cn2 aula 1 - introducao - 0408.md",
+    "cn2/cn2 aula 1 inicial - 0308.md",
+    "cn2/cn2 aula 2 - servidor 1108.md",
+    "cn2/cn2 aula 2 - servidor 1008.md",
+    "ldm/ldm aula inicial - 0308.md",
+    "ldm/ldm aula 1 roadmap - 1008.md",
+    "mdd",
+    "Simbólica.md",
+    "pln",
+    "qts",
+    "etica",
+    "ldm/aula inicial 0308.txt",
+    "ldm",
+    "Nova pasta"
+  ]
+}

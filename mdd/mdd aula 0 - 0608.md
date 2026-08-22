@@ -1,0 +1,3 @@
+- Dado bruto ao conhecimento
+- [[mdd aula 1 - 0708(PROCESSO KDD INTRODUÇÃO)]]
+---
