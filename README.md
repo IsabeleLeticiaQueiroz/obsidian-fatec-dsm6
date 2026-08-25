@@ -21,4 +21,5 @@ organizadinho e fácil de encontrar:
 ├── 🐰 Ética Profissional e Patende (etica)
 ├── 🐰 Mineração de Dados (mdd)
 ├── 🐰 Processamento de Linguagem Natural (pln)
+├── 🐰 Projeto Integrador (pi)
 └── 🐰 Laboratório de Desenvolv. Multiplataforma (ldm)
