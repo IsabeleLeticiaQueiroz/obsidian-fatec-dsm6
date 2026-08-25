@@ -4,45 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c1eca91c03b06182",
+        "id": "85feaa337aa8223f",
         "type": "tabs",
         "children": [
           {
-            "id": "b60b0d3e9f8921ee",
+            "id": "2c5ef64714787700",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
-          },
-          {
-            "id": "d3752c2f955f3906",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mdd/mdd aula 3 - 2108.md",
-                "mode": "source",
-                "source": false
-              },
               "icon": "lucide-file",
-              "title": "mdd aula 3 - 2108"
-            }
-          },
-          {
-            "id": "9f65c09f1e6fc426",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -208,10 +183,14 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "d3752c2f955f3906",
+  "active": "2c5ef64714787700",
   "lastOpenFiles": [
-    "mdd/mdd aula 2 - 2008.md",
+    "pi/a fazeres 24-08.md",
+    "cn2/cn2 aula 1 - introducao - 0408.md",
+    "pi",
+    "cn2/cn2 aula 2 - servidor 1108.md",
     "mdd/mdd aula 3 - 2108.md",
+    "mdd/mdd aula 2 - 2008.md",
     "pln/pln aula 0 - 0508.md",
     "qts/qts aula 3 - 2008.md",
     "qts/qts aula 4 - 2108.md",
@@ -226,9 +205,7 @@
     "imgs/WhatsApp Image 2026-08-20 at 20.10.09.jpeg",
     "pln/ABORDAGENS DO PLN 0508.md",
     "pln/pln aula 3 - 2008.md",
-    "cn2/cn2 aula 1 - introducao - 0408.md",
     "cn2/cn2 aula 1 inicial - 0308.md",
-    "cn2/cn2 aula 2 - servidor 1108.md",
     "cn2/cn2 aula 2 - servidor 1008.md",
     "ldm/ldm aula inicial - 0308.md",
     "ldm/ldm aula 1 roadmap - 1008.md",
