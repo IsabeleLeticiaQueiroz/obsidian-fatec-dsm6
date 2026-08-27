@@ -1,1 +1,4 @@
-- tela reconhecimento facial
+- tela reconhecimento facial  ok
+- organizar figma - 50%
+- modelo 3d
+-
