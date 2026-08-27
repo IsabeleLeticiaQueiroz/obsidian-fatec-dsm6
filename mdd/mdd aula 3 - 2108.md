@@ -50,7 +50,7 @@ print("Pandas version:", pd.__version__)
 print("Scikit-learn version:", sk.__version__)
 ```
 - ativar word wrap no settings do vscode
-- criar aquivo pandas.py na mesma pasta do outro arquivo
+- criar aquivo exemplopandas.py na mesma pasta do outro arquivo
 ```
 import pandas as pd
 
