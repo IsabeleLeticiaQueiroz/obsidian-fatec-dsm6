@@ -8,21 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "535c6d89bc54824c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mdd/mdd aula 3 - 2108.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "mdd aula 3 - 2108"
-            }
-          },
-          {
-            "id": "f485be353f0b0cb1",
+            "id": "dfd7e78ad3f37f45",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "qts aula 5 - 2708"
+            }
+          },
+          {
+            "id": "f485be353f0b0cb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "qts/qts aula 6 - 2808.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "qts aula 6 - 2808"
             }
           }
         ],
@@ -204,9 +204,12 @@
   },
   "active": "f485be353f0b0cb1",
   "lastOpenFiles": [
+    "README.md",
+    "qts/README.md",
+    "qts/qts aula 5 - 2708.md",
+    "qts/qts aula 6 - 2808.md",
     "qts/qts aula 4 - 2108.md",
     "pi/a fazeres 24-08.md",
-    "qts/qts aula 5 - 2708.md",
     "mdd/mdd aula 4 - 2708.md",
     "mdd/mdd aula 3 - 2108.md",
     "pln/pln aula 3 - 2008.md",
@@ -214,7 +217,6 @@
     "pln/pln aula 4 - 2608.md",
     "pln/Estudo de caso - PLN.docx.pdf",
     "pln/ABORDAGENS DO PLN 0508.md",
-    "README.md",
     "cn2/cn2 aula 3 - 2508.md",
     "cn2/cn2 aula 1 - introducao - 0408.md",
     "pi",
@@ -236,7 +238,6 @@
     "ldm/ldm aula inicial - 0308.md",
     "ldm/ldm aula 1 roadmap - 1008.md",
     "mdd",
-    "Simbólica.md",
     "pln",
     "qts",
     "etica",
