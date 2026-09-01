@@ -257,3 +257,6 @@ def test_error_guessing_plano_com_espacos_extras():
 
     # vamos testar se ele remove os espaços e ainda assim reconhece o plano corretamente, alem de colocar como maiusculo
 ```
+
+---
+continuação: [[qts aula 6 - 2808]]

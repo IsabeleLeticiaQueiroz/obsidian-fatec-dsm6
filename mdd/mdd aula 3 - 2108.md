@@ -96,3 +96,5 @@ print(df[df['idade'] > 30])
 ```
 ---
 [^1]: A análise univariada examina apenas uma variável por vez para entender sua distribuição e medidas resumo. Já a análise multivariada estuda três ou mais variáveis de forma simultânea para avaliar relações complexas e o efeito combinado entre elas
+---
+continuação [[mdd aula 4 - 2708]]

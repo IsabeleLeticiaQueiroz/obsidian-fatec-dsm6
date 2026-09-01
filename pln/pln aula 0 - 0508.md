@@ -22,3 +22,5 @@ avisos
 - **A qualidade da base de dados é diretamente proporcional à qualidade da resposta**
 ----------------------------
 
+continuação:
+[[pln aula 3 - 2008]]

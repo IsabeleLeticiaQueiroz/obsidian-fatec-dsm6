@@ -23,3 +23,8 @@ forma organizada
 
 ---
 atividade : 
+[[Estudo de caso - PLN.docx.pdf]]
+
+feito ate o momento:
+[[estudo de caso - item a e b.pdf]]
+

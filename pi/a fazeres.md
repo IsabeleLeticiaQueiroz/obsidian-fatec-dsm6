@@ -1,0 +1,7 @@
+- [x] tela reconhecimento facial  
+- [x] organizar figma - 70% ✅ 2026-08-31
+- [ ] modelo 3d
+- [ ] tutorial como rodar pro ricardo
+- [ ] atualizar readme
+- [ ] fazer tela nova o olho comecar cinza, ir pro vermelho, amarelo e verde, conta 1.5s e vai pra prox. etapa
+- [ ] offline-sync

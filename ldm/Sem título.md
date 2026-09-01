@@ -1,0 +1,2 @@
+- clonar repositorio na branch base-app https://github.com/negoNegoso/printec.git
+- 

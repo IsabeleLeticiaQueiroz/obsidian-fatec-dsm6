@@ -8,35 +8,57 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dfd7e78ad3f37f45",
+            "id": "f485be353f0b0cb1",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "qts/qts aula 5 - 2708.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "qts aula 5 - 2708"
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           },
           {
-            "id": "f485be353f0b0cb1",
+            "id": "14aeaf9eddd311d2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "hearth-home-view",
+              "state": {},
+              "pinned": true,
+              "icon": "hearth-crystal",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "11702127ca2359e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "qts/qts aula 6 - 2808.md",
+                "file": "ldm/Sem título.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "qts aula 6 - 2808"
+              "title": "Sem título"
+            }
+          },
+          {
+            "id": "8d278340ce074f0e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "imgs/1.png"
+              },
+              "icon": "lucide-image",
+              "title": "1"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -70,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ip",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,55 +215,59 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
+      "switcher:Abrir a troca rápida": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "templates:Inserir modelo": false,
+      "bases:Criar nova base": false,
+      "hearth:Open Hearth home": false
     }
   },
-  "active": "f485be353f0b0cb1",
+  "active": "6d33389ed77ecc22",
   "lastOpenFiles": [
-    "README.md",
-    "qts/README.md",
+    "2026-09-01.md",
+    "ldm/Sem título.md",
+    "pi/roadmap.md",
+    "pi/a fazeres.md",
+    "imgs/2.png",
+    "imgs/1.png",
+    "mdd/mdd aula 3 - 2108.md",
+    "mdd/mdd aula 2 - 2008.md",
+    "mdd/mdd aula 0 - 0608.md",
+    "mdd/mdd aula 1 - 0708(PROCESSO KDD INTRODUÇÃO).md",
+    "ldm/ldm aula inicial - 0308.md",
+    "ldm/ldm aula 1 roadmap - 1008.md",
     "qts/qts aula 5 - 2708.md",
     "qts/qts aula 6 - 2808.md",
     "qts/qts aula 4 - 2108.md",
-    "pi/a fazeres 24-08.md",
-    "mdd/mdd aula 4 - 2708.md",
-    "mdd/mdd aula 3 - 2108.md",
-    "pln/pln aula 3 - 2008.md",
-    "pln/estudo de caso - item a e b.pdf",
+    "pln/pln aula 0 - 0508.md",
     "pln/pln aula 4 - 2608.md",
+    "pln/estudo de caso - item a e b.pdf",
+    "pln/pln aula 3 - 2008.md",
+    "cn2/cn2 aula 4 - 3108.md",
+    "Home.md",
+    "Sem título.base",
+    "cn2/cn2 - canva.canvas",
+    "cn2/cn2 aula 3 - 2508.md",
+    "cn2/cn2 aula 2 - servidor 1108.md",
+    "cn2/cn2 aula 1 inicial - 0308.md",
+    "README.md",
+    "qts/README.md",
+    "mdd/mdd aula 4 - 2708.md",
     "pln/Estudo de caso - PLN.docx.pdf",
     "pln/ABORDAGENS DO PLN 0508.md",
-    "cn2/cn2 aula 3 - 2508.md",
     "cn2/cn2 aula 1 - introducao - 0408.md",
     "pi",
-    "cn2/cn2 aula 2 - servidor 1108.md",
-    "mdd/mdd aula 2 - 2008.md",
-    "pln/pln aula 0 - 0508.md",
-    "qts/qts aula 3 - 2008.md",
-    "mdd/mdd aula 0 - 0608.md",
-    "qts/qts aula 0 0608.md",
-    "qts/qts aula 1 - 0708.md",
-    "qts aula 3 - 2008(continuacao).md",
-    "mdd/mdd aula 1 - 0708(PROCESSO KDD INTRODUÇÃO).md",
     "imgs/Pasted image 20260820204137.png",
     "Pasted image 20260820201253.png",
     "imgs",
     "imgs/WhatsApp Image 2026-08-20 at 20.10.09.jpeg",
-    "cn2/cn2 aula 1 inicial - 0308.md",
-    "cn2/cn2 aula 2 - servidor 1008.md",
-    "ldm/ldm aula inicial - 0308.md",
-    "ldm/ldm aula 1 roadmap - 1008.md",
     "mdd",
     "pln",
     "qts",
     "etica",
-    "ldm/aula inicial 0308.txt",
-    "ldm"
+    "ldm/aula inicial 0308.txt"
   ]
 }

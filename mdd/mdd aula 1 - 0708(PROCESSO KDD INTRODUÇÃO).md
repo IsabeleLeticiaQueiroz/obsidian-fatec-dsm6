@@ -62,3 +62,6 @@ Não importa a quantidade dos dados mas sim a qualidade deles, pois se entrar li
 ----
 ==O Agrupamento nao requer dados rotulados?==
 O agrupamento não querer dados rotulados pois ele pode ser feito através das características naturais
+
+---
+continuação [[mdd aula 2 - 2008]]

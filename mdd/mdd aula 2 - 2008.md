@@ -63,3 +63,6 @@
 - Forte amarração aos objetivos do negócio do início ao fim da implantação
 
 ![[Pasted image 20260820204137.png|531]]
+
+---
+continuação [[mdd aula 3 - 2108]]

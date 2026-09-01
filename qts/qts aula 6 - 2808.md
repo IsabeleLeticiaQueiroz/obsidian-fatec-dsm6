@@ -365,3 +365,4 @@ def test_faturamento_com_atraso():
 
     # fatura inicial de 50.0, sem cupom, com 10 dias de atraso, então o valor final deve ser 50.0 + 5.0 (multa) + 5.0 (juros) = 60.0
 ```
+

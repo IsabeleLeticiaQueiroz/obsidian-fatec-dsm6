@@ -20,3 +20,4 @@ fazer roadmap de 8 entregas e cada entrega vai ser uma evolucao do pi
 
 
 ---------------------------------------------------------------
+continuacao [[ldm aula 1 roadmap - 1008]]

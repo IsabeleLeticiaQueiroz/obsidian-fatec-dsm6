@@ -47,3 +47,4 @@ flowchart LR
 > O lexema permite a compreensão de todas as formas que uma palavra pode apresentar contendo o mesmo significado.
 
 
+continuacao em : [[pln aula 4 - 2608]]

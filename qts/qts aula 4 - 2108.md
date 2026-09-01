@@ -6,3 +6,5 @@
 ---
 ↪︎Rodar kiro-cli
 
+---
+continuação: [[qts aula 5 - 2708]]

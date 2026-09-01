@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"263da8c44d3b661f","type":"file","file":"cn2/cn2 aula 2 - servidor 1108.md","x":-220,"y":-180,"width":400,"height":400},
+		{"id":"b05202383d1ae316","type":"file","file":"cn2/cn2 aula 3 - 2508.md","x":200,"y":-180,"width":400,"height":400},
+		{"id":"e0f6010b7f7e9254","type":"text","text":"Passo a passo principal","x":-220,"y":-280,"width":250,"height":60,"color":"5"}
+	],
+	"edges":[]
+}
