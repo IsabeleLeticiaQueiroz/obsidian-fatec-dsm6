@@ -316,7 +316,7 @@ def avaliar_solicitacao_credito(solicitacao: SolicitacaoCredito) -> ResultadoAna
 
     )
 ```
-  - main.py em app:
+  - criar main.py em app:
 ```python
 from fastapi import FastAPI
 
@@ -364,7 +364,7 @@ def endpoint_avaliar_credito(solicitacao: SolicitacaoCredito):
 
         return HTTPException(status_code=422, detail=str(exc))
 ```
-- tests\conftest.py:
+- criar tests\conftest.py:
 ```python
 import pytest
 
@@ -404,3 +404,67 @@ def pytest_collectoin_modifyitems(items):
 
     items.sort(key=get_priority)
 ```
+- criar tests\test_caixa_preta.py:
+```python
+import pytest
+
+from app.schemas import SolicitacaoCredito
+
+from app.service import avaliar_solicitacao_credito
+
+  
+
+# particionamento de equivalencia e valor limite: idade
+
+  
+
+@pytest.mark.unit
+
+@pytest.mark.blackbox
+
+@pytest.mark.parametrize(
+
+    "idade_invalida, mensagem_esperada",
+
+    [
+
+        (17, "Idade minima permitida e 18 anos."),
+
+        (0, "Idade minima permitida e 18 anos."),
+
+        (-5, "Idade minima permitida e 18 anos."),
+
+        (76, "Idade maxima permitida e 75 anos."),
+
+        (100, "Idade maxima permitida e 75 anos."),
+
+    ],
+
+    ids = ["bva_17_abaixo_limite", "zero_idade", "negativo_idade", "bva_76_acima_limite", "cem_anos"]
+
+)
+
+def test_bva_idade_deve_lancar_erro(idade_invalida: int, mensagem_esperada: str):
+
+    """ Testa a validacao de idade com particionamento de equivalencia e valor limite. """
+
+    solicitacao = SolicitacaoCredito(
+
+        idade=idade_invalida,
+
+        renda_mensal=5000.0,
+
+        score_serasa=700,
+
+        valor_solicitado=5000.0,
+
+        quantidade_parcelas=12
+
+    )
+
+    with pytest.raises(ValueError, match=mensagem_esperada):
+
+        avaliar_solicitacao_credito(solicitacao)
+```
+- NÃO ESQUEÇA DE POR "__init__.py" tanto em app quanto em test, e nao esqueça de por underline!!!
+-
