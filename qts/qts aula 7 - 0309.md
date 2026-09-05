@@ -467,4 +467,3 @@ def test_bva_idade_deve_lancar_erro(idade_invalida: int, mensagem_esperada: str)
         avaliar_solicitacao_credito(solicitacao)
 ```
 - NÃO ESQUEÇA DE POR "__init__.py" tanto em app quanto em test, e nao esqueça de por underline!!!
--

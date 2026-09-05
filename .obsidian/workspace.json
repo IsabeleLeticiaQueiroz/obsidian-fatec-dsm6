@@ -20,35 +20,21 @@
             }
           },
           {
-            "id": "b7be03397dc345ba",
+            "id": "e90f758116731b7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "qts/qts aula 6 - 2808.md",
+                "file": "mdd/mdd aula 6 - 0409.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "qts aula 6 - 2808"
-            }
-          },
-          {
-            "id": "5161fca5a22d388e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "qts/qts aula 7 - 0309.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "qts aula 7 - 0309"
+              "title": "mdd aula 6 - 0409"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,16 +201,19 @@
       "hearth:Open Hearth home": false
     }
   },
-  "active": "5161fca5a22d388e",
+  "active": "6d33389ed77ecc22",
   "lastOpenFiles": [
-    "qts/qts aula 6 - 2808.md",
+    "mdd/mdd aula 4 - 2708.md",
+    "mdd/mdd aula 6 - 0409.md",
+    "imgs/arvore-decisao.png",
     "qts/qts aula 7 - 0309.md",
+    "qts/qts aula 8 - 0409.md",
+    "qts/qts aula 6 - 2808.md",
     "pi/roadmap.md",
     "ldm/ldm aula 0109.md",
     "cn2/prova pratica.md",
     "pi/a fazeres.md",
     "mdd/mdd aula 5 - 0309.md",
-    "mdd/mdd aula 4 - 2708.md",
     "cn2/cn2 - canva.canvas",
     "pln/pln aula 0 - 0508.md",
     "2026-09-03.md",
@@ -244,9 +233,6 @@
     "ldm/ldm aula 1 roadmap - 1008.md",
     "qts/qts aula 5 - 2708.md",
     "qts/qts aula 4 - 2108.md",
-    "pln/pln aula 4 - 2608.md",
-    "pln/pln aula 3 - 2008.md",
-    "Home.md",
     "Sem título.base",
     "pln/Estudo de caso - PLN.docx.pdf",
     "pi",
