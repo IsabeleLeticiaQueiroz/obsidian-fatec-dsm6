@@ -20,21 +20,35 @@
             }
           },
           {
-            "id": "e90f758116731b7f",
+            "id": "d6d90688c8293570",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mdd/mdd aula 6 - 0409.md",
+                "file": "pln/pln aula 7 - 2309.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mdd aula 6 - 0409"
+              "title": "pln aula 7 - 2309"
+            }
+          },
+          {
+            "id": "2a4aee4c6d4424c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atualizacoes exame.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Atualizacoes exame"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,47 +217,48 @@
   },
   "active": "6d33389ed77ecc22",
   "lastOpenFiles": [
-    "mdd/mdd aula 4 - 2708.md",
+    "etica/Aula 06 -  Direito digital - conceito, sociedade da informação, princípios, marco civil da internet - sem gabarito.pdf",
+    "etica/Aula 04- Introdução ao Direito e Aplicação à Multiplataforma e Software - sem gabarito - Fatec Registro.pdf",
+    "etica/Aula 02 - Introdução as relações de trabalho I - sem gabarito.pdf",
+    "etica/Aula 01 - Aula inicial e apresentação da disciplina - sem gabarito.pdf",
+    "pln/pln aula 8 - 2409.md",
+    "etica/~$IVIDADE 01.docx",
+    "etica/~WRL3083.tmp",
+    "etica/~WRD3075.tmp",
+    "etica/ATIVIDADE 01.docx",
+    "Atualizacoes exame.md",
+    "pln/pln aula 7 - 2309.md",
+    "questoes administrativas",
+    "pi/a fazeres.md",
+    "cn2/cn3 aula 7 - 2209.md",
+    "mdd/mdd aula 8 - 1709.md",
+    "cn2/cn2 aula 6 - 1509.md",
+    "pln/Atividade - aula 1609.md",
+    "pln/pln aula 6 - 0909.md",
+    "pln/pln aula 4 - 2608.md",
     "mdd/mdd aula 6 - 0409.md",
+    "cn2/prova pratica.md",
+    "cn2/cn2 aula 5 - 0809.md",
+    "cn2/cn2 aula 2 - servidor 1108.md",
+    "cn2/cn2 aula 3 - 2508.md",
+    "cn2/cn2 aula 1 - introducao - 0408.md",
+    "cn2/cn2 aula 4 - 0109.md",
+    "pln/Estudo de caso - PLN.docx.pdf",
+    "mdd/mdd aula 1 - 0708(PROCESSO KDD INTRODUÇÃO).md",
+    "mdd/mdd aula 4 - 2708.md",
     "imgs/arvore-decisao.png",
     "qts/qts aula 7 - 0309.md",
     "qts/qts aula 8 - 0409.md",
     "qts/qts aula 6 - 2808.md",
     "pi/roadmap.md",
     "ldm/ldm aula 0109.md",
-    "cn2/prova pratica.md",
-    "pi/a fazeres.md",
     "mdd/mdd aula 5 - 0309.md",
     "cn2/cn2 - canva.canvas",
-    "pln/pln aula 0 - 0508.md",
-    "2026-09-03.md",
     "pln/estudo de caso - item a e b.pdf",
-    "cn2/cn2 aula 3 - 2508.md",
-    "cn2/cn2 aula 4 - 0109.md",
-    "cn2/cn2 aula 1 inicial - 0308.md",
-    "cn2/cn2 aula 2 - servidor 1108.md",
     "imgs/1.png",
-    "2026-09-01.md",
     "imgs/2.png",
-    "mdd/mdd aula 3 - 2108.md",
-    "mdd/mdd aula 2 - 2008.md",
-    "mdd/mdd aula 0 - 0608.md",
-    "mdd/mdd aula 1 - 0708(PROCESSO KDD INTRODUÇÃO).md",
-    "ldm/ldm aula inicial - 0308.md",
-    "ldm/ldm aula 1 roadmap - 1008.md",
-    "qts/qts aula 5 - 2708.md",
-    "qts/qts aula 4 - 2108.md",
-    "Sem título.base",
-    "pln/Estudo de caso - PLN.docx.pdf",
-    "pi",
     "imgs/Pasted image 20260820204137.png",
     "Pasted image 20260820201253.png",
-    "imgs",
-    "imgs/WhatsApp Image 2026-08-20 at 20.10.09.jpeg",
-    "mdd",
-    "pln",
-    "qts",
-    "etica",
-    "ldm/aula inicial 0308.txt"
+    "imgs/WhatsApp Image 2026-08-20 at 20.10.09.jpeg"
   ]
 }

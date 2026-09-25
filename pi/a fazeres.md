@@ -2,9 +2,10 @@
 - [x] organizar figma - 70% ✅ 2026-08-31
 - [ ] modelo 3d
 - [ ] tutorial como rodar pro ricardo
-- [ ] atualizar readme
+- [ ] atualizar readme mobile
 - [x] fazer tela nova o olho comecar cinza, ir pro vermelho, amarelo e verde, conta 1.5s e vai pra prox. etapa ✅ 2026-09-03
-- [ ] offline-sync 2026-09-03 20:00
-
-
-pi
+- [x] offline-sync 2026-09-03 20:00 ✅ 2026-09-17
+- [x] table fazendas faltando em db local talvez! ✅ 2026-09-15
+- [x] readme empresa tw ✅ 2026-09-23
+- [ ] swot
+- [ ] canvas

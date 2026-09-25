@@ -1,0 +1,4 @@
+- So pode fazer de exame em ate 3 materias
+- Exame so se ficar igual ou abaixo de 4
+- agora se ficar de exame, e ir bem, tirar 10 na prova, a media fica como se tivesse ido bem desde o comeco, nao tem mais o esquema de dividir nota
+- 

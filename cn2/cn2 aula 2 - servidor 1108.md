@@ -15,4 +15,4 @@ A partir de agora faremos o passo a passo das coisas mais importantes que ==cair
 
 - dispostivos, inserir cd
 - dispositivos, arrastar e soltar bidirecional e area de transferencia tambem
-- 
+-
