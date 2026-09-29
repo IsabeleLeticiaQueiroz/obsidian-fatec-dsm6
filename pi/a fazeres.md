@@ -7,5 +7,13 @@
 - [x] offline-sync 2026-09-03 20:00 ✅ 2026-09-17
 - [x] table fazendas faltando em db local talvez! ✅ 2026-09-15
 - [x] readme empresa tw ✅ 2026-09-23
-- [ ] swot
-- [ ] canvas
+- [x] swot ✅ 2026-09-29
+- [x] canvas ✅ 2026-09-29
+- [ ] relatorios por imagem do animal
+- [ ] melhorar organizacao figma (nome das telas, tirar lorem ipsum)
+- [ ] ver se da pra melhorar a notificacao
+- [ ] fazer os videos de tutorial (cadastro de fazenda, cadastro de animais, etc)
+- [ ] marcar visita tecnica pra vacas leiteiras
+- [ ] circuito iot
+- [ ] cicd
+- [ ] melhorar o tempo de espera do iot, melhorar questao de fila de medicao de cache
