@@ -20,59 +20,63 @@
             }
           },
           {
-            "id": "2a4aee4c6d4424c7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
-          },
-          {
-            "id": "2a187275a5fdd2c5",
+            "id": "639c9c93fd2450e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cn2/cn2 aula 8 - 2909.md",
+                "file": "pi/a fazeres.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cn2 aula 8 - 2909"
+              "title": "a fazeres"
             }
           },
           {
-            "id": "0627f35bcaae81ce",
+            "id": "e77ff1e9549aa0bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cn2/prova pratica.md",
+                "file": "qts/qts aula 12 - 0810.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prova pratica"
+              "title": "qts aula 12 - 0810"
             }
           },
           {
-            "id": "8e90d3e8c34c9d10",
+            "id": "fe04f7161960bd75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cn2/cn2 aula 7 - 2209.md",
+                "file": "Truques obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cn2 aula 7 - 2209"
+              "title": "Truques obsidian"
+            }
+          },
+          {
+            "id": "3b987d8c3ff57073",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "qts/qts aula 13 - 0910.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "qts aula 13 - 0910"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -239,15 +243,24 @@
       "hearth:Open Hearth home": false
     }
   },
-  "active": "2a187275a5fdd2c5",
+  "active": "3b987d8c3ff57073",
   "lastOpenFiles": [
-    "cn2/prova pratica.md",
-    "cn2/cn2 aula 8 - 2909.md",
-    "cn2/cn2 aula 7 - 2209.md",
+    "qts/qts aula 12 - 0810.md",
+    "qts/qts aula 13 - 0910.md",
+    "mdd/mdd aula 9 - 0810.md",
+    "Truques obsidian.md",
     "pi/a fazeres.md",
+    "README.md",
+    "mdd/mdd aula 8 - 1709.md",
+    "cn2/cn2 aula 8 - 2909.md",
+    "qts/qts aula 11 - 0110.md",
+    "qts/qts aula 10 - 2409.md",
+    "qts/qts aula 8 - 0409.md",
+    "pln/prova.md",
+    "cn2/prova pratica.md",
+    "cn2/cn2 aula 7 - 2209.md",
     "Atualizacoes exame.md",
     "mdd/mdd aula 1 - 0708(PROCESSO KDD INTRODUÇÃO).md",
-    "qts/qts aula 10 - 2409.md",
     "cn2/cn2 aula 6 - 1509.md",
     "etica/Aula 07 -  Marco civil da internet - sem gabarito.pdf",
     "etica/Aula 06 -  Direito digital - conceito, sociedade da informação, princípios, marco civil da internet - sem gabarito.pdf",
@@ -261,7 +274,6 @@
     "etica/ATIVIDADE 01.docx",
     "pln/pln aula 7 - 2309.md",
     "questoes administrativas",
-    "mdd/mdd aula 8 - 1709.md",
     "pln/Atividade - aula 1609.md",
     "pln/pln aula 6 - 0909.md",
     "pln/pln aula 4 - 2608.md",
@@ -269,15 +281,7 @@
     "cn2/cn2 aula 5 - 0809.md",
     "cn2/cn2 aula 2 - servidor 1108.md",
     "cn2/cn2 aula 3 - 2508.md",
-    "cn2/cn2 aula 1 - introducao - 0408.md",
-    "cn2/cn2 aula 4 - 0109.md",
-    "mdd/mdd aula 4 - 2708.md",
     "imgs/arvore-decisao.png",
-    "qts/qts aula 7 - 0309.md",
-    "qts/qts aula 8 - 0409.md",
-    "qts/qts aula 6 - 2808.md",
-    "pi/roadmap.md",
-    "ldm/ldm aula 0109.md",
     "cn2/cn2 - canva.canvas",
     "imgs/1.png",
     "imgs/2.png",

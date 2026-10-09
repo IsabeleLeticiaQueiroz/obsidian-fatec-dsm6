@@ -9,11 +9,12 @@
 - [x] readme empresa tw ✅ 2026-09-23
 - [x] swot ✅ 2026-09-29
 - [x] canvas ✅ 2026-09-29
-- [ ] relatorios por imagem do animal
+- [x] relatorios por imagem do animal ✅ 2026-10-06
 - [ ] melhorar organizacao figma (nome das telas, tirar lorem ipsum)
-- [ ] ver se da pra melhorar a notificacao
+- [x] ver se da pra melhorar a notificacao ✅ 2026-10-06
 - [ ] fazer os videos de tutorial (cadastro de fazenda, cadastro de animais, etc)
 - [ ] marcar visita tecnica pra vacas leiteiras
 - [ ] circuito iot
 - [ ] cicd
-- [ ] melhorar o tempo de espera do iot, melhorar questao de fila de medicao de cache
+- [x] melhorar o tempo de espera do iot, melhorar questao de fila de medicao de cache
+- [ ] implantações de algumas caracteristicas de qts
