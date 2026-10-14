@@ -23,3 +23,9 @@ organizadinho e fácil de encontrar:
 ├── 🐰 Processamento de Linguagem Natural (pln)
 ├── 🐰 Projeto Integrador (pi)
 └── 🐰 Laboratório de Desenvolv. Multiplataforma (ldm)
+```
+
+## Plugins
+
+- Hearth
+- 
