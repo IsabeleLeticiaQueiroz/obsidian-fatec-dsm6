@@ -1,8 +1,8 @@
 - [x] tela reconhecimento facial  
 - [x] organizar figma - 70% ✅ 2026-08-31
-- [ ] modelo 3d
-- [ ] tutorial como rodar pro ricardo
-- [ ] atualizar readme mobile
+- [x] modelo 3d
+- [x] tutorial como rodar pro ricardo
+- [x] atualizar readme mobile
 - [x] fazer tela nova o olho comecar cinza, ir pro vermelho, amarelo e verde, conta 1.5s e vai pra prox. etapa ✅ 2026-09-03
 - [x] offline-sync 2026-09-03 20:00 ✅ 2026-09-17
 - [x] table fazendas faltando em db local talvez! ✅ 2026-09-15
@@ -10,11 +10,17 @@
 - [x] swot ✅ 2026-09-29
 - [x] canvas ✅ 2026-09-29
 - [x] relatorios por imagem do animal ✅ 2026-10-06
-- [ ] melhorar organizacao figma (nome das telas, tirar lorem ipsum)
 - [x] ver se da pra melhorar a notificacao ✅ 2026-10-06
-- [ ] fazer os videos de tutorial (cadastro de fazenda, cadastro de animais, etc)
-- [ ] marcar visita tecnica pra vacas leiteiras
-- [ ] circuito iot
-- [ ] cicd
+- [x] marcar visita tecnica pra vacas leiteiras
+- [x] cicd
 - [x] melhorar o tempo de espera do iot, melhorar questao de fila de medicao de cache
-- [ ] implantações de algumas caracteristicas de qts
+- [x] implantações de algumas caracteristicas de qts
+- [ ] pitch atualizado
+- [ ] diagramas
+- [ ] melhorar organizacao figma (nome das telas, tirar lorem ipsum)
+- [ ] fazer os videos de tutorial (cadastro de fazenda, cadastro de animais, etc)
+- [ ] circuito iot
+- [ ] artigo
+- [ ] atualizar landing page com fotos novas
+- [ ] slide apresentacao ingles e pt br
+- [ ] espaco campos de texto
